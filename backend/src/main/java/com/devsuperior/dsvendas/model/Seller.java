@@ -1,4 +1,4 @@
-package com.devsuperior.dsvendas.entities;
+package com.devsuperior.dsvendas.model;
 
 import java.util.ArrayList;
 import java.util.List;
